@@ -1,0 +1,15 @@
+Note:
+1. Menambahkan alert disetiap actions seperti untuk edit, delete,dan tambah data berhasil
+
+2. selected kelas, kelas yang diedit harus tampil sesuai apa yang sebelum diedit
+
+3. Kelas harus unique, biar kelas bisa gak sama
+
+4. Data yang berelasi tidak bisa dihapus, ubah di database nya, jadi restrict
+
+5. Poin Pelanggaran, ditambahkan di database juga di table. Berarti nanti bentuknya dalam bentuk option
+
+
+
+NOTE 2 :
+1. Kelas saat diupdate seharusnya tetap tidak bisa karena berelasi
